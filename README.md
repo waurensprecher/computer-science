@@ -35,35 +35,70 @@ but specifically chosen to meet the following criteria.
 
 **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
 
-- [Prerequisites](#prerequisites)
-- [Intro CS](#intro-cs)
-  - [Introduction to Programming](#introduction-to-programming)
-  - [Introduction to Computer Science](#introduction-to-computer-science)
-- [Core CS](#core-cs)
-  - [Core programming](#core-programming)
-  - [Core math](#core-math)
-  - [CS Tools](#cs-tools)
-  - [Core systems](#core-systems)
-  - [Core theory](#core-theory)
-  - [Core security](#core-security)
-  - [Core applications](#core-applications)
-  - [Core ethics](#core-ethics)
-- [Advanced CS](#advanced-cs)
-  - [Advanced programming](#advanced-programming)
-  - [Advanced systems](#advanced-systems)
-  - [Advanced theory](#advanced-theory)
-  - [Advanced information security](#advanced-information-security)
-  - [Advanced math](#advanced-math)
-- [Final project](#final-project)
-
+### [Intro CS](#intro-cs)
+- [x] Introduction to Programming
+- [x] Introduction to Computer Science and Programming Using Python
+### [Core programming](#core-programming)
+- [ ] Systematic Program Design
+- [ ] Programming Languages, Part A
+- [ ] Programming Languages, Part B
+- [ ] Programming Languages, Part C
+- [ ] Obejct-Oriented Design
+- [ ] Design Patterns
+- [ ] Software Architecture
+### [Core math](#core-math)
+- [x] Calculus 1A: Differentiation
+- [x] Calculus 1B: Integration
+- [ ] Calculus 1c: Coordinate Systems & Infinite Series
+- [ ] Mathematics for Computer Science
+### [CS Tools](#cs-tools)
+- [ ] The Missing Semester of Your CS Education
+### [Core systems](#core-systems)
+- [ ] Build a Modern Computer from First Principles: From Nand to Tetris
+- [ ] Build a Modern Computer from First Principles: From Nand to Tetris Part II
+- [ ] Operating Systems: Three Easy Pieces
+- [ ] Computer Networking: a Top-Down Approach
+### [Core theory](#core-theory)
+- [ ] Divide and Conquer, Sorting and Searching, and Randomized Algorithms
+- [ ] Graph Search, Shortest Paths, and Data Structures
+- [ ] Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
+- [ ] Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
+### [Core security](#core-security)
+- [ ] Cybersecurity Fundamentals
+- [ ] Principles of Secure Coding
+- [ ] Identifying Security Vulnerabilities
+- [ ] Identifying Security Vulnerabilities in C/C++Programming
+### [Core applications](#core-applications)
+- [ ] Databases: Modeling and Theory
+- [ ] Databases: Relational Databases and SQL
+- [ ] Databases: Semistructured Data
+- [ ] Machine Learning
+- [ ] Computer Graphics
+- [ ] Software Engineering: Introduction
+### [Core ethics](#core-ethics)
+- [ ] Ethics, Technology and Engineering
+- [ ] Introduction to Intellectual Property
+- [ ] Data Privacy Fundamentals
+### [Advanced programming](#advanced-programming)
+- [ ] Parallel Programming
+- [ ] Compilers
+- [ ] Introduction to Haskell
+- [ ] Learn Prolog Now!
+- [ ] Software Debugging
+- [ ] Software Testing
+### [Advanced theory](#advanced-theory)
+- [ ] Theory of Computation
+- [ ] Computational Geometry
+- [ ] Game Theory 
+### [Advanced math](#advanced-math)
+- [ ] Essence of Linear Algebra
+- [ ] Linear Algebra
+- [ ] Introduction to Numerical Methods
+- [ ] Introduction to Formal Logic
+- [ ] Probability
+### Final Project
+- [ ] Final Project
 ---
-
-## Prerequisites
-
-- [Core CS](#core-cs) assumes the student has already taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites), including algebra, geometry, and pre-calculus.
-- [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS
-and is knowledgeable enough now to decide which electives to take.
-- Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
 
 ## Intro CS
 
