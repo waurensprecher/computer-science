@@ -50,7 +50,7 @@ but specifically chosen to meet the following criteria.
 ### [Core math](#core-math)
 - [x] Calculus 1A: Differentiation
 - [x] Calculus 1B: Integration
-- [ ] Calculus 1c: Coordinate Systems & Infinite Series
+- [ ] Calculus 1C: Coordinate Systems & Infinite Series
 - [ ] Mathematics for Computer Science
 ### [CS Tools](#cs-tools)
 - [ ] The Missing Semester of Your CS Education
