@@ -1,13 +1,8 @@
-![Open Source Society University (OSSU)](https://i.imgur.com/kYYCXtC.png)
-
-<h3 align="center">Open Source Society University</h3>
+<h1 align="center">Open Source Society University</h1>
 <p align="center">
   Path to a free self-taught education in Computer Science!
 </p>
 <p align="center">
-  <a href="https://github.com/sindresorhus/awesome">
-    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
-  </a>
   <a href="https://github.com/ossu/computer-science">
 	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
   </a>
@@ -33,14 +28,12 @@ but specifically chosen to meet the following criteria.
 
 # Curriculum
 
-**Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
-
 ### [Intro CS](#intro-cs)
 - [x] Introduction to Programming
 - [x] Introduction to Computer Science and Programming Using Python
 - [x] Introduction to Computational Thinking and Data Science
 ### [Core programming](#core-programming)
-- [ ] Systematic Program Design
+- [x] Systematic Program Design
 - [ ] Programming Languages, Part A
 - [ ] Programming Languages, Part B
 - [ ] Programming Languages, Part C
@@ -50,7 +43,7 @@ but specifically chosen to meet the following criteria.
 ### [Core math](#core-math)
 - [x] Calculus 1A: Differentiation
 - [x] Calculus 1B: Integration
-- [ ] Calculus 1C: Coordinate Systems & Infinite Series
+- [x] Calculus 1C: Coordinate Systems & Infinite Series
 - [ ] Mathematics for Computer Science
 ### [CS Tools](#cs-tools)
 - [ ] The Missing Semester of Your CS Education
@@ -105,8 +98,6 @@ but specifically chosen to meet the following criteria.
 
 ### Introduction to Programming
 
-If you've never written a for-loop, or don't know what a string is in programming, start here. This course is self-paced, allowing you to adjust the number of hours you spend per week to meet your needs.
-
 **Topics covered**:
 `simple programs`
 `simple data structures`
@@ -116,8 +107,6 @@ Courses | Duration | Effort | Prerequisites
 [Introduction to programming](coursepages/intro-programming/README.md) | 10 weeks | 10 hours/week | none 
 
 ### Introduction to Computer Science
-
-This course will introduce you to the world of computer science. Students who have been introduced to programming, either from the courses above or through study elsewhere, should take this course for a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
 
 **Topics covered**:
 `computation`
@@ -131,8 +120,6 @@ Courses | Duration | Effort | Prerequisites
 [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) ([alt](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computational-thinking-and-data-science)) | 9 weeks | 15 hours/week | Intro to Computer Science
 
 ## Core CS
-
-All coursework under Core CS is **required**, unless otherwise indicated.
 
 ### Core programming
 **Topics covered**:
@@ -160,7 +147,6 @@ Courses | Duration | Effort | Prerequisites
 [Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Design Patterns
 
 ### Core math
-Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
 
 **Topics covered**:
 `discrete mathematics`
