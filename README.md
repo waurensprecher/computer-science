@@ -34,7 +34,7 @@ but specifically chosen to meet the following criteria.
 - [x] Introduction to Computational Thinking and Data Science
 ### [Core programming](#core-programming)
 - [x] Systematic Program Design
-- [ ] Programming Languages, Part A
+- [x] Programming Languages, Part A
 - [ ] Programming Languages, Part B
 - [ ] Programming Languages, Part C
 - [ ] Obejct-Oriented Design
