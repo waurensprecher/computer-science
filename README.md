@@ -16,15 +16,9 @@
 # Summary
 
 The OSSU curriculum is a **complete education in computer science** using online materials.
-It's not merely for career training or professional development.
 It's for those who want a proper, *well-rounded* grounding in concepts fundamental to all computing disciplines,
-and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own,
-but with support from a worldwide community of fellow learners.
-
-It is designed according to the degree requirements of undergraduate computer science majors, minus general education (non-CS) requirements,
-as it is assumed most of the people following this curriculum are already educated outside the field of CS.
-The courses themselves are among the very best in the world, often coming from Harvard, Princeton, MIT, etc.,
-but specifically chosen to meet the following criteria.
+and for those who have the discipline, will, and good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners. 
+It is designed according to the degree requirements of undergraduate computer science majors, minus general education (non-CS) requirements.
 
 # Curriculum
 
@@ -35,7 +29,7 @@ but specifically chosen to meet the following criteria.
 ### [Core programming](#core-programming)
 - [x] Systematic Program Design
 - [x] Programming Languages, Part A
-- [ ] Programming Languages, Part B
+- [x] Programming Languages, Part B
 - [ ] Programming Languages, Part C
 - [ ] Obejct-Oriented Design
 - [ ] Design Patterns
@@ -102,9 +96,9 @@ but specifically chosen to meet the following criteria.
 `simple programs`
 `simple data structures`
 
-Courses | Duration | Effort | Prerequisites 
-:-- | :--: | :--: | :--: 
-[Introduction to programming](coursepages/intro-programming/README.md) | 10 weeks | 10 hours/week | none 
+Courses | Duration | Effort  
+:-- | :--: | :--: 
+[Introduction to programming](coursepages/intro-programming/README.md) | 10 weeks | 10 hours/week  
 
 ### Introduction to Computer Science
 
@@ -112,12 +106,11 @@ Courses | Duration | Effort | Prerequisites
 `computation`
 `imperative programming`
 `basic data structures and algorithms`
-`and more`
 
-Courses | Duration | Effort | Prerequisites 
-:-- | :--: | :--: | :--: 
-[Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ([alt](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) 
-[Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) ([alt](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computational-thinking-and-data-science)) | 9 weeks | 15 hours/week | Intro to Computer Science
+Courses | Duration | Effort 
+:-- | :--: | :--: 
+[Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ([alt](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)) | 9 weeks | 15 hours/week 
+[Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) ([alt](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computational-thinking-and-data-science)) | 9 weeks | 15 hours/week 
 
 ## Core CS
 
@@ -134,17 +127,16 @@ Courses | Duration | Effort | Prerequisites
 `ML-family languages (via Standard ML)`
 `Lisp-family languages (via Racket)`
 `Ruby`
-`and more`
 
-Courses | Duration | Effort | Prerequisites 
-:-- | :--: | :--: | :--: 
+Courses | Duration | Effort  
+:-- | :--: | :--:  
 [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015) [(textbook)](https://htdp.org/2023-8-14/Book/index.html) (alt: [part 1](https://www.edx.org/course/how-to-code-simple-data) / [part 2](https://www.edx.org/course/how-to-code-complex-data)) | 13 weeks | 8-10 hours/week | none 
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | Systematic Program Design ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) 
-[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week | Programming Languages, Part A 
-[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week | Programming Languages, Part B 
-[Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 4 weeks | 4 hours/week | [Basic Java](https://www.youtube.com/watch?v=GoXwIVyNvX0)
-[Design Patterns](https://www.coursera.org/learn/design-patterns) | 4 weeks | 4 hours/week | Object-Oriented Design
-[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Design Patterns
+[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week 
+[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week 
+[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week 
+[Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 4 weeks | 4 hours/week 
+[Design Patterns](https://www.coursera.org/learn/design-patterns) | 4 weeks | 4 hours/week 
+[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week 
 
 ### Core math
 
@@ -154,14 +146,13 @@ Courses | Duration | Effort | Prerequisites
 `basic statistics`
 `O-notation`
 `discrete probability`
-`and more`
 
-Courses | Duration | Effort | Notes | Prerequisites 
-:-- | :--: | :--: | :--: | :--: 
-[Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) ([alt](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)) | 13 weeks | 6-10 hours/week | The alternate covers this and the following 2 courses | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) 
-[Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 13 weeks | 5-10 hours/week | - | Calculus 1A 
-[Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 6 weeks | 5-10 hours/week | - | Calculus 1B 
-[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)) | 13 weeks | 5 hours/week | [2015/2019 solutions](https://github.com/spamegg1/Math-for-CS-solutions) [2010 solutions](https://github.com/frevib/mit-cs-math-6042-fall-2010-problems) [2005 solutions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/). | Calculus 1C 
+Courses | Duration | Effort 
+:-- | :--: | :--: 
+[Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) ([alt](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)) | 13 weeks | 6-10 hours/week 
+[Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 13 weeks | 5-10 hours/week
+[Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 6 weeks | 5-10 hours/week
+[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)) | 13 weeks | 5 hours/week 
 
 
 ### CS Tools
@@ -172,7 +163,6 @@ Understanding theory is important, but you will also be expected to create progr
 `vim`
 `command line environments`
 `version control`
-`and more`
 
 Courses | Duration | Effort | Prerequisites 
 :-- | :--: | :--: | :--: 
@@ -194,7 +184,6 @@ Courses | Duration | Effort | Prerequisites
 `compilers`
 `operating systems`
 `network protocols`
-`and more`
 
 Courses | Duration | Effort | Additional Text / Assignments| Prerequisites 
 :-- | :--: | :--: | :--: | :--: 
@@ -216,7 +205,6 @@ Courses | Duration | Effort | Additional Text / Assignments| Prerequisites
 `minimum spanning trees`
 `dynamic programming`
 `NP-completeness`
-`and more`
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
@@ -233,7 +221,6 @@ Courses | Duration | Effort | Prerequisites | Discussion
 `Threats and Attacks`
 `Network Security`
 `Cryptography`
-`and more`
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
