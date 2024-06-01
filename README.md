@@ -30,7 +30,7 @@ It is designed according to the degree requirements of undergraduate computer sc
 - [x] Systematic Program Design
 - [x] Programming Languages, Part A
 - [x] Programming Languages, Part B
-- [ ] Programming Languages, Part C
+- [x] Programming Languages, Part C
 - [ ] Obejct-Oriented Design
 - [ ] Design Patterns
 - [ ] Software Architecture
